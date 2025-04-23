@@ -16,7 +16,7 @@
 - Data Chunk 및 RAG 개념 소개  
 - Production-Ready 엔터프라이즈 레벨 AI 아키텍처 설명  
 
-🔗 [참고자료]([https://www.notion.so/1d1a993dcec780baa5e1fd1ce27c6fca?pvs=21](https://breezy-viscount-f8a.notion.site/Azure-AI-1d5a993dcec780778abed732d8038d78?pvs=4))
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/Azure-AI-1d5a993dcec780778abed732d8038d78?pvs=4)
 
 ---
 
