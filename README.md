@@ -12,7 +12,7 @@
 
 ### 🕘 10:00 - 10:30 | Azure AI 아키텍처 개요
 
-- Azure AI 서비스 개요 (Document Intelligence, AI Search, Storage, Azure OpenAI 등)  
+- Azure AI 서비스 개요
 - Data Chunk 및 RAG 개념 소개  
 - Production-Ready 엔터프라이즈 레벨 AI 아키텍처 설명  
 
