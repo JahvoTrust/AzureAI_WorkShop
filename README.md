@@ -12,11 +12,11 @@
 
 ### 🕘 10:00 - 10:30 | Azure AI 아키텍처 개요
 
-- Azure AI 서비스 개요 (Document Intelligence, AI Search, Storage, Foundry 등)  
+- Azure AI 서비스 개요 (Document Intelligence, AI Search, Storage, Azure OpenAI 등)  
 - Data Chunk 및 RAG 개념 소개  
-- Production-Ready AI 아키텍처 흐름 설명  
+- Production-Ready 엔터프라이즈 레벨 AI 아키텍처 설명  
 
-🔗 [참고자료](https://www.notion.so/1d1a993dcec780baa5e1fd1ce27c6fca?pvs=21)
+🔗 [참고자료]([https://www.notion.so/1d1a993dcec780baa5e1fd1ce27c6fca?pvs=21](https://breezy-viscount-f8a.notion.site/Azure-AI-1d5a993dcec780778abed732d8038d78?pvs=4))
 
 ---
 
