@@ -22,8 +22,6 @@
 
 ### 🕥 10:30 - 11:10 | Document Intelligence를 활용한 데이터 추출 및 전처리
 
-- Azure Blob Storage 배포 및 컨테이너 구성  
-- 실습용 문서 업로드  
 - Azure Document Intelligence로 데이터 추출 실습  
 
 ⏸️ **휴식 (10분)**
