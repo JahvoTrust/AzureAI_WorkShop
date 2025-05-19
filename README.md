@@ -10,7 +10,7 @@
 
 ---
 
-### 🕘 10:00 - 10:20 | Azure AI 아키텍처 개요
+### 1️⃣ 10:00 - 10:20 | Azure AI 아키텍처 개요
 
 - Azure AI 서비스 개요
 - Data Chunk 및 RAG 개념 소개  
@@ -20,7 +20,7 @@
 
 ---
 
-### 🕥 10:20 - 10:50 | Document Intelligence를 활용한 데이터 추출 및 전처리
+### 2️⃣ 10:20 - 10:50 | Document Intelligence를 활용한 데이터 추출 및 전처리
 
 - Azure Document Intelligence로 데이터 추출 실습  
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 🕚 11:00 - 11:30 | AI Search를 통한 Vector 검색 및 Index 구성
+### 3️⃣ 11:00 - 11:30 | AI Search를 통한 Vector 검색 및 Index 구성
 
 - Embedding과 벡터 인덱스 개념  
 - Azure AI Search 소개  
@@ -42,7 +42,7 @@
 
 ---
 
-### 🕐 13:00 - 14:50 | Azure AI Foundry를 활용한 나만의 RAG 챗봇 만들기
+### 4️⃣ 13:00 - 14:50 | Azure AI Foundry를 활용한 나만의 RAG 챗봇 만들기
 
 - Azure AI Foundry 및 OpenAI 모델 소개  
 - Prompt Flow를 활용한 워크플로우 구성  
@@ -52,7 +52,7 @@
 
 ---
 
-### 🕑 15:00 - 15:30 | 추가적인 AI 서비스 활용
+### 5️⃣ 15:00 - 15:30 | 추가적인 AI 서비스 활용
 
 - Content Safety & AI Language : 컨텐츠 필터링 및 개인정보 감지방법
 - Azure OpenAI 모델 Fine-tunning 가이드
@@ -64,7 +64,7 @@
 
 ---
 
-### 🕑 15:40 - 16:30 | FlowLine 소개 및 데모 (Dev팀)
+### 6️⃣ 15:40 - 16:30 | FlowLine 소개 및 데모 (Dev팀)
 
 - FlowLine 소개
 - Multi-Modal RAG 개념 및 데모
@@ -74,6 +74,6 @@
 
 ---
 
-### 🕞 16:40 - 17:00 | Wrap-up & 질의응답
+### 7️⃣ 16:40 - 17:00 | Wrap-up & 질의응답
 
 - 워크샵 내용 관련 Q&A
