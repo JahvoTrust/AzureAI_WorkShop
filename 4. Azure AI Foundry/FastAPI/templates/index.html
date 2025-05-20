@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Flow Search API</title>
+</head>
+
+<body>
+    <h1>Prompt Flow Search Web Page</h1>
+    Query: <input type="text" id="query" name="query" />
+    <button onclick="sendQuery()">전송</button>
+    <div id="response">응답 내용이 여기에 표시됩니다.</div>
+</body>
+
+</html>
+
+<script>
+    function sendQuery() {
+        const query = document.getElementById("query").value;
+        fetch('/ask', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ Query: query })
+        })
+        .then(response => response.json())
+        .then(data => {
+            let output = "응답 없음";
+            if (data.answer && typeof data.answer === 'object') {
+                if (typeof data.answer.Output === 'string') {
+                    output = data.answer.Output;
+                } else if (typeof data.answer.Output === 'object') {
+                    output = JSON.stringify(data.answer.Output, null, 2);  // JSON.stringify로 변환
+                }
+            } else if (data.error) {
+                output = data.error;
+            }
+            document.getElementById("response").innerText = output;
+            console.log(data.answer)
+        })
+        .catch(error => {
+            document.getElementById("response").innerText = "에러 발생: " + error;
+            console.log(error)
+        });
+    }
+</script>
+
+<style>
+    body {
+        font-family: 'Segoe UI', sans-serif;
+        background-color: #f7f9fc;
+        padding: 40px;
+        text-align: center;
+    }
+
+    h1 {
+        color: #333;
+    }
+
+    input[type="text"] {
+        width: 300px;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        margin-right: 10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #4a90e2;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #357ab8;
+    }
+
+    #response {
+        margin-top: 30px;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #fff;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        white-space: pre-wrap;
+    }
+</style>
