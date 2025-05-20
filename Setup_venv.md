@@ -1,3 +1,7 @@
+## 필수 설치
+1. [Python](https://www.python.org/downloads/release/python-3116/)
+2. [VS Code](https://code.visualstudio.com/download)
+
 ## 환경설정
 파이썬 설치
 VS Code 설치
