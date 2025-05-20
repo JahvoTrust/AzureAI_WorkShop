@@ -58,11 +58,12 @@
 
 ### 5️⃣ 15:00 - 15:30 | 추가적인 AI 서비스 활용
 
-- Content Safety & AI Language : 컨텐츠 필터링 및 개인정보 감지방법
+- Content Safety & AI Language : 컨텐츠 필터링 및 개인정보 감지방법 🔗 [참고자료](https://www.notion.so/Content-Safety-AI-Language-1d9a993dcec7801d9243c2c193c1169a?pvs=4)
 - Azure OpenAI 모델 Fine-tunning 가이드
 - Azure 에서 Open source 모델 활용 방법
 - Azure Cosmos for MongoDB 활용가이드
-- Azure Monitor 활용가이드 
+- Azure Monitor 활용가이드
+
 
 🕘**휴식 (10분)**
 
