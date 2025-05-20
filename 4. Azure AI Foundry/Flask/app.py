@@ -4,7 +4,8 @@
 #     .\.venv\Scripts\activate
 # 2. Flask 설치
 #     pip install flask
-# 3. 실행
+# 3. 배포한 앱 url, api_key 입력
+# 4. 실행
 #     python app.py
 
 from flask import Flask, render_template, request, jsonify
