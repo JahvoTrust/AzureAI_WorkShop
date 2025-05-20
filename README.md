@@ -25,7 +25,6 @@
 
 🔗 [참고자료](https://breezy-viscount-f8a.notion.site/Document-Intelligence-1b8a993dcec780d28119efd3eb545ee9)
 
-
 🕘 **휴식 (10분)**
 
 ---
@@ -59,11 +58,10 @@
 ### 5️⃣ 15:00 - 15:30 | 추가적인 AI 서비스 활용
 
 - Content Safety & AI Language : 컨텐츠 필터링 및 개인정보 감지방법 🔗 [참고자료](https://www.notion.so/Content-Safety-AI-Language-1d9a993dcec7801d9243c2c193c1169a?pvs=4)
-- Azure OpenAI 모델 Fine-tunning 가이드
-- Azure 에서 Open source 모델 활용 방법
-- Azure Cosmos for MongoDB 활용가이드
-- Azure Monitor 활용가이드
-
+- Azure OpenAI 모델 Fine-tunning 가이드 🔗 [참고자료](https://www.notion.so/Fine-Tunning-1f5a993dcec78073b6f1f2afaf6518f7?pvs=4)
+- Azure 에서 Open source 모델 활용 방법 🔗 [참고자료](https://www.notion.so/Azure-Open-source-1f5a993dcec780e6a76adda779a75ae7?pvs=4)
+- Azure Cosmos for MongoDB 활용가이드 🔗 [참고자료](https://www.notion.so/Azure-MongoDB-1f5a993dcec7807cb6ecedcdf6a0bb23?pvs=4)
+- Azure Monitor 활용가이드 🔗 [참고자료](https://www.notion.so/Azure-Monitor-1f5a993dcec780a18766f51d63c8e0a5?pvs=4)
 
 🕘**휴식 (10분)**
 
