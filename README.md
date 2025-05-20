@@ -21,7 +21,10 @@
 
 ### 2️⃣ 10:20 - 10:50 | Document Intelligence를 활용한 데이터 추출 및 전처리
 
-- Azure Document Intelligence로 데이터 추출 실습  
+- Azure Document Intelligence로 데이터 추출 실습
+
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/Azure-AI-1d5a993dcec780778abed732d8038d78?pvs=4)
+
 
 🕘 **휴식 (10분)**
 
