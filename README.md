@@ -23,7 +23,7 @@
 
 - Azure Document Intelligence로 데이터 추출 실습  
 
-⏸️ **휴식 (10분)**
+🕘 **휴식 (10분)**
 
 ---
 
@@ -47,7 +47,7 @@
 - Prompt Flow를 활용한 워크플로우 구성  
 - AI Search와 연동된 RAG 구성 실습  
 
-⏸️ **휴식 (10분)**
+🕘**휴식 (10분)**
 
 ---
 
@@ -59,7 +59,7 @@
 - Azure Cosmos for MongoDB 활용가이드
 - Azure Monitor 활용가이드 
 
-⏸️ **휴식 (10분)**
+🕘**휴식 (10분)**
 
 ---
 
@@ -69,7 +69,7 @@
 - Multi-Modal RAG 개념 및 데모
 - MCP Agent 개념 및 데모
 
-⏸️ **휴식 (10분)**
+🕘**휴식 (10분)**
 
 ---
 
