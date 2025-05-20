@@ -1,5 +1,5 @@
 ## 필수 설치
-1. [Python](https://www.python.org/downloads/release/python-3116/)
+1. [Python 3.11](https://www.python.org/downloads/release/python-3116/)
 2. [VS Code](https://code.visualstudio.com/download)
 
 ## 환경설정
