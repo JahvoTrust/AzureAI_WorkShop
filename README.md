@@ -23,7 +23,7 @@
 
 - Azure Document Intelligence로 데이터 추출 실습
 
-🔗 [참고자료](https://breezy-viscount-f8a.notion.site/Azure-AI-1d5a993dcec780778abed732d8038d78?pvs=4)
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/Document-Intelligence-1b8a993dcec780d28119efd3eb545ee9)
 
 
 🕘 **휴식 (10분)**
@@ -36,7 +36,7 @@
 - Azure AI Search 소개  
 - 키워드 검색 vs. 벡터 검색 실습  
 
----
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/AI-Search-Vector-Index-1b8a993dcec78008a190faf7beb91057)
 
 ### 🍽 11:30 - 13:00 | 점심시간
 
