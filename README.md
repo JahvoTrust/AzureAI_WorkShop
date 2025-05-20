@@ -48,8 +48,10 @@
 
 - Azure AI Foundry 및 OpenAI 모델 소개  
 - Prompt Flow를 활용한 워크플로우 구성  
-- AI Search와 연동된 RAG 구성 실습  
+- AI Search와 연동된 RAG 구성 실습
 
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/AI-Foundry-RAG-HOL-1f3a993dcec780e08df9d62202ab1c81)
+  
 🕘**휴식 (10분)**
 
 ---
