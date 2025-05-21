@@ -21,9 +21,11 @@
 
 ### 2️⃣ 10:20 - 10:50 | Document Intelligence를 활용한 데이터 추출 및 전처리
 
-- Azure Document Intelligence로 데이터 추출 실습  
+- Azure Document Intelligence로 데이터 추출 실습
 
-⏸️ **휴식 (10분)**
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/Document-Intelligence-1b8a993dcec780d28119efd3eb545ee9)
+
+🕘 **휴식 (10분)**
 
 ---
 
@@ -33,7 +35,7 @@
 - Azure AI Search 소개  
 - 키워드 검색 vs. 벡터 검색 실습  
 
----
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/AI-Search-Vector-Index-1b8a993dcec78008a190faf7beb91057)
 
 ### 🍽 11:30 - 13:00 | 점심시간
 
@@ -45,21 +47,23 @@
 
 - Azure AI Foundry 및 OpenAI 모델 소개  
 - Prompt Flow를 활용한 워크플로우 구성  
-- AI Search와 연동된 RAG 구성 실습  
+- AI Search와 연동된 RAG 구성 실습
 
-⏸️ **휴식 (10분)**
+🔗 [참고자료](https://breezy-viscount-f8a.notion.site/AI-Foundry-RAG-HOL-1f3a993dcec780e08df9d62202ab1c81)
+  
+🕘**휴식 (10분)**
 
 ---
 
 ### 5️⃣ 15:00 - 15:30 | 추가적인 AI 서비스 활용
 
-- Content Safety & AI Language : 컨텐츠 필터링 및 개인정보 감지방법
-- Azure OpenAI 모델 Fine-tunning 가이드
-- Azure 에서 Open source 모델 활용 방법
-- Azure Cosmos for MongoDB 활용가이드
-- Azure Monitor 활용가이드 
+- Content Safety & AI Language : 컨텐츠 필터링 및 개인정보 감지방법 🔗 [참고자료](https://www.notion.so/Content-Safety-AI-Language-1d9a993dcec7801d9243c2c193c1169a?pvs=4)
+- Azure OpenAI 모델 Fine-tunning 가이드 🔗 [참고자료](https://www.notion.so/Fine-Tunning-1f5a993dcec78073b6f1f2afaf6518f7?pvs=4)
+- Azure 에서 Open source 모델 활용 방법 🔗 [참고자료](https://www.notion.so/Azure-Open-source-1f5a993dcec780e6a76adda779a75ae7?pvs=4)
+- Azure Cosmos for MongoDB 활용가이드 🔗 [참고자료](https://www.notion.so/Azure-MongoDB-1f5a993dcec7807cb6ecedcdf6a0bb23?pvs=4)
+- Azure Monitor 활용가이드 🔗 [참고자료](https://www.notion.so/Azure-Monitor-1f5a993dcec780a18766f51d63c8e0a5?pvs=4)
 
-⏸️ **휴식 (10분)**
+🕘**휴식 (10분)**
 
 ---
 
@@ -69,7 +73,7 @@
 - Multi-Modal RAG 개념 및 데모
 - MCP Agent 개념 및 데모
 
-⏸️ **휴식 (10분)**
+🕘**휴식 (10분)**
 
 ---
 
